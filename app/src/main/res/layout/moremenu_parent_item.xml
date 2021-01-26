@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_menu"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:paddingRight="@dimen/menu_layoutpading"
+    android:paddingBottom="10dp"
+    android:paddingLeft="@dimen/menu_layoutpading" >
+
+    <com.alexzh.circleimageview.CircleImageView
+        android:id="@+id/image"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/logo_grayscale"
+        android:layout_gravity="center" />
+
+    <customfonts.MyTextView
+        android:id="@+id/nama"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="More"
+        android:textColor="@color/category_textcolour"
+        android:textSize="@dimen/textlist"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical" />
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: org.sufficientlysecure:html-textview:3.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/673079c74ab633e34a1fe61e99f56d48/html-textview-3.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/673079c74ab633e34a1fe61e99f56d48/html-textview-3.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/673079c74ab633e34a1fe61e99f56d48/html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/673079c74ab633e34a1fe61e99f56d48/html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/4b31a476533ddc09f49523feac1d0f78/html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/290a1a9e560ec94a44a38a1a1540ba9b/html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/d53f1af4283d63ce020491cba37d5d09/html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/3b79a69b06d29be390e85f03fdb64d19/jetified-html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/3b79a69b06d29be390e85f03fdb64d19/jetified-html-textview-3.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/3b79a69b06d29be390e85f03fdb64d19/jetified-html-textview-3.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/fed2f38277300978621b4b2e841c930e/jetified-html-textview-3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/fed2f38277300978621b4b2e841c930e/jetified-html-textview-3.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/fed2f38277300978621b4b2e841c930e/jetified-html-textview-3.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sufficientlysecure/html-textview/3.5/da1f21aaa2fd4cb8457d9f9a733efe3e37a6bf7/html-textview-3.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.sufficientlysecure/html-textview/3.5/da1f21aaa2fd4cb8457d9f9a733efe3e37a6bf7/html-textview-3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sufficientlysecure/html-textview/3.5/fc8d16a44fc1245a4b6fff5bfb3b59137d7193ef/html-textview-3.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/modules-2/files-2.1/org.sufficientlysecure/html-textview/3.5/fc8d16a44fc1245a4b6fff5bfb3b59137d7193ef/html-textview-3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

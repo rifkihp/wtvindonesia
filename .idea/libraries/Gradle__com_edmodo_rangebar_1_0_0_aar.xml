@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.edmodo:rangebar:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a11e7db6badd31bb001cc4dfd6391f4a/rangebar-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a11e7db6badd31bb001cc4dfd6391f4a/rangebar-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a11e7db6badd31bb001cc4dfd6391f4a/rangebar-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/78fffa9151baf16ae013e067ae7805e0/rangebar-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/78fffa9151baf16ae013e067ae7805e0/rangebar-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/78fffa9151baf16ae013e067ae7805e0/rangebar-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/78fffa9151baf16ae013e067ae7805e0/jetified-rangebar-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/78fffa9151baf16ae013e067ae7805e0/jetified-rangebar-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-2/files-2.1/78fffa9151baf16ae013e067ae7805e0/jetified-rangebar-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

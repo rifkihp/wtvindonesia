@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card_background" >
+
+    <customfonts.MyTextView
+        android:id="@+id/txtCulture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/text"
+        android:text="Culture"
+        android:textSize="@dimen/spacing"
+        android:textStyle="bold" />
+
+    <customfonts.MyTextView
+        android:id="@+id/txtPolitics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/text"
+        android:text="Politics"
+        android:textSize="@dimen/spacing"
+        android:textStyle="bold"  />
+
+    <customfonts.MyTextView
+        android:id="@+id/txtEntertainment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/text"
+        android:text="Entertainment"
+        android:textSize="@dimen/spacing"
+        android:textStyle="bold" />
+
+    <customfonts.MyTextView
+        android:id="@+id/txtOthers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@drawable/text"
+        android:text="Others"
+        android:textSize="@dimen/spacing"
+        android:textStyle="bold"  />
+
+
+
+</LinearLayout>

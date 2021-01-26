@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		android:layout_marginLeft="16dp"
+		android:layout_marginRight="16dp" >
+
+		<customfonts.MyTextView
+			android:id="@+id/ket"
+			android:layout_width="0dp"
+			android:layout_weight="1"
+			android:layout_height="wrap_content"
+			android:lineSpacingExtra="5dp"
+			android:text="Periode\nTagihan\nDenda\nAdmin\nTransaksi\n\Sub Total"
+			android:textColor="@color/textSub"
+			android:textSize="@dimen/textsub" />
+
+		<customfonts.MyTextView
+			android:id="@+id/val"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:lineSpacingExtra="5dp"
+			android:text="000000\nRp. 0\nRp. 0\nRp. 0\nRp. 0"
+			android:textColor="@color/textSub"
+			android:textSize="@dimen/textsub"
+			android:gravity="right" />
+
+	</LinearLayout>
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="@color/list_divider"
+		android:layout_marginTop="5dp"
+		android:layout_marginLeft="16dp"
+		android:layout_marginBottom="5dp"
+		android:layout_marginRight="16dp" />
+
+</LinearLayout>
